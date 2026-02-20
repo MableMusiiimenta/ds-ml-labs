@@ -1,5 +1,5 @@
 # Data Science & ML – Assignment 1
-##Objective
+## Objective
 
 To reinforce foundational Python and data science concepts by independently reproducing all labs from Weeks 1 and 2 and documenting the process professionally.
 
